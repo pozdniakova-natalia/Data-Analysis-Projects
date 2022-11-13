@@ -2,7 +2,7 @@
 
 [Дашборд к исследованию](https://public.tableau.com/views/gamersprofiles/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
-[Презентация](https://github.com/pozdniakova-natalia/Data-Analysis-Projects/blob/9194004f89a119b5dff5e59fd548c151dd4d4c90/Ad_sources_analysis/presentation.pdf) 
+[Презентация](https://github.com/pozdniakova-natalia/Data-Analysis-Projects/blob/main/Ad_sources_analysis/presentation.pdf) 
 
 ## Описание проекта
 
